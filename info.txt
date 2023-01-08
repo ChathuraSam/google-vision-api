@@ -1,0 +1,5 @@
+google vision api private key path:
+/Users/chathura/google vision api
+
+set the key path:
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/chathura/google vision api/object-identifying-api-f67795a09f7a.json"
